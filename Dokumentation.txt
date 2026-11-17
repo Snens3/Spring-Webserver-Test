@@ -1,1 +1,1 @@
-Text
+Projekt: Ich möchte mit Spring/ Spring Boot zuhause einen Webserver aufsetzen und diesen Hosten, darauf soll eine Anwendung laufen, auf der man seinen Gym Trainingsplan und Übung auswählen kann und dort sein Gewicht/ Wiederholungen eintragen kann. Mit Tailscale soll man sich dann mit VPN verbinden können, dass man von überall darauf zugreifen kann. Zusätzlich sollen sich mehrere Nutzer anmelden können und jeweils ihre Daten/Übungen dort einzutragen.
